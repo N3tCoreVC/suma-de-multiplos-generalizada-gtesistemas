@@ -1,0 +1,11 @@
+C:\Users\Juan Osuna Velarde.JP\Documents\Mediconet\suma-de-multiplos-generalizada-gtesistemas\obj\Debug\netcoreapp2.1\suma-de-multiplos-generalizada-gtesistemas.csprojAssemblyReference.cache
+C:\Users\Juan Osuna Velarde.JP\Documents\Mediconet\suma-de-multiplos-generalizada-gtesistemas\obj\Debug\netcoreapp2.1\suma-de-multiplos-generalizada-gtesistemas.csproj.CoreCompileInputs.cache
+C:\Users\Juan Osuna Velarde.JP\Documents\Mediconet\suma-de-multiplos-generalizada-gtesistemas\obj\Debug\netcoreapp2.1\suma-de-multiplos-generalizada-gtesistemas.AssemblyInfoInputs.cache
+C:\Users\Juan Osuna Velarde.JP\Documents\Mediconet\suma-de-multiplos-generalizada-gtesistemas\obj\Debug\netcoreapp2.1\suma-de-multiplos-generalizada-gtesistemas.AssemblyInfo.cs
+C:\Users\Juan Osuna Velarde.JP\Documents\Mediconet\suma-de-multiplos-generalizada-gtesistemas\bin\Debug\netcoreapp2.1\suma-de-multiplos-generalizada-gtesistemas.deps.json
+C:\Users\Juan Osuna Velarde.JP\Documents\Mediconet\suma-de-multiplos-generalizada-gtesistemas\bin\Debug\netcoreapp2.1\suma-de-multiplos-generalizada-gtesistemas.runtimeconfig.json
+C:\Users\Juan Osuna Velarde.JP\Documents\Mediconet\suma-de-multiplos-generalizada-gtesistemas\bin\Debug\netcoreapp2.1\suma-de-multiplos-generalizada-gtesistemas.runtimeconfig.dev.json
+C:\Users\Juan Osuna Velarde.JP\Documents\Mediconet\suma-de-multiplos-generalizada-gtesistemas\bin\Debug\netcoreapp2.1\suma-de-multiplos-generalizada-gtesistemas.dll
+C:\Users\Juan Osuna Velarde.JP\Documents\Mediconet\suma-de-multiplos-generalizada-gtesistemas\bin\Debug\netcoreapp2.1\suma-de-multiplos-generalizada-gtesistemas.pdb
+C:\Users\Juan Osuna Velarde.JP\Documents\Mediconet\suma-de-multiplos-generalizada-gtesistemas\obj\Debug\netcoreapp2.1\suma-de-multiplos-generalizada-gtesistemas.dll
+C:\Users\Juan Osuna Velarde.JP\Documents\Mediconet\suma-de-multiplos-generalizada-gtesistemas\obj\Debug\netcoreapp2.1\suma-de-multiplos-generalizada-gtesistemas.pdb
